@@ -24,7 +24,7 @@ Wrap
 Run
 
 Copy
-git clone https://github.com/your-username/google-sheets-mysql-sync.git
+git clone https://github.com/gajendraLoma/google-sheets-mysql-sync.git
 cd google-sheets-mysql-sync
 Install required packages:
 bash
