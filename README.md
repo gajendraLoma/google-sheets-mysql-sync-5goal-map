@@ -1,6 +1,8 @@
 Google Sheets to MySQL Sync
 This is a Node.js application that syncs data from a Google Sheet to a MySQL database and updates it automatically using a cron job. The project includes API endpoints to manage the sync process and fetch data.
-
+google sheet
+https://docs.google.com/spreadsheets/d/1Bm-AACFJj7d1Ekl48oiX81zgdfUmUIbhydulz9V8kvw/edit?gid=0#gid=0
+https://docs.google.com/spreadsheets/d/1Ua0GVJsemKFQh5MjpH7LHvB4tFplA-9OV9Hu0Yed6oI/edit?gid=0#gid=0
 Overview
 Purpose: Syncs race track data (e.g., raceTrackID, name_vi, name_en, turns, quant, laps, length) from a Google Sheet to a MySQL map table.
 Technology: Built with Node.js, Express, Google APIs, and MySQL2.
